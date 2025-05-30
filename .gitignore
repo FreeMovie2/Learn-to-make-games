@@ -1,0 +1,9 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Oo]bj/
+Packages/PackageCache/
+*.dll
+*.dylib
+.DS_Store
+.vscode/
